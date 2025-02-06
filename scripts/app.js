@@ -116,6 +116,10 @@ console.log(andResult);
 // Example: let orResult;
 // Use '||' to check if either 'a' or 'b' is greater than 5.
 
+let orResult;
+orResult= a>5||b>5;
+console.log(orResult);
+
 //
 // Do not edit below this line doing so will break the project, this code will display the values on the page
 //
