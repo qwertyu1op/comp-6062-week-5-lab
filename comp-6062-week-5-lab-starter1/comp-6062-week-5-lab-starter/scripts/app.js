@@ -23,18 +23,38 @@ console.log(isEqual);
 // Example: let isStrictEqual;
 // Use '===' to compare 'a' and 'b' for strict equality.
 
+let isStrictEqual;
+isStrictEqual= a===b;
+console.log(isStrictEqual);
+
 // Example: let isNotEqual;
 // Use '!=' to compare 'a' and 'b' for inequality.
 
+let isNotEqual;
+isNotEqual= a!=b;
+console.log(isNotEqual);
+
 // Example: let isStrictNotEqual;
 // Use '!==' to compare 'a' and 'b' for strict inequality.
+
+let isStrictNotEqual;
+isStrictNotEqual=a!==b;
+console.log(isStrictEqual);
 
 // Step 3: Perform basic mathematical operations.
 // Example: let add;
 // Add 'a' and 'b'.
 
+let add;
+add=a+b;
+console.log(add);
+
 // Example: let sub;
 // Subtract 'b' from 'a'.
+
+let sub;
+sub=a-b;
+console.log(sub);
 
 // Example: let multiply;
 // Multiply 'a' and 'b'.
