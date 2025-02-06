@@ -60,7 +60,7 @@ console.log(sub);
 // Multiply 'a' and 'b'.
 
 let multiply;
-multiply=a*b;
+multiply=a * b;
 console.log(multiply);
 
 // Example: let power; use ** as the operator
