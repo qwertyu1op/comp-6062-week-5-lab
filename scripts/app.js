@@ -59,8 +59,7 @@ console.log(sub);
 // Example: let multiply;
 // Multiply 'a' and 'b'.
 
-let multiply;
-multiply=a * b;
+let multiply=a * b; 
 console.log(multiply);
 
 // Example: let power; use ** as the operator
@@ -109,6 +108,10 @@ console.log(isLessOrEqual);
 // Step 5: Apply binary logic with short-circuit evaluation.
 // Example: let andResult;
 // Use '&&' to check if both 'a' and 'b' are greater than 5.
+
+let andResult;
+andResult= a>5&&b>5;
+console.log(andResult);
 
 // Example: let orResult;
 // Use '||' to check if either 'a' or 'b' is greater than 5.
