@@ -59,26 +59,52 @@ console.log(sub);
 // Example: let multiply;
 // Multiply 'a' and 'b'.
 
-
+let multiply;
+multiply=a*b;
+console.log(multiply);
 
 // Example: let power; use ** as the operator
 // Raise 'a' to the power of 'b'.
 
+let power;
+power=a**b;
+console.log(power);
+
 // Example: let division;
 // Divide 'a' by 'b'.
+
+let division;
+division=a**b;
+console.log(division);
 
 // Step 4: Use comparison operators to compare the variables.
 // Example: let isGreaterThan;
 // Check if 'a' is greater than 'b'.
 
+let isGreaterThan;
+isGreaterThan=a>b;
+console.log(isGreaterThan);
+
 // Example: let isGreaterOrEqual;
 // Check if 'a' is greater than or equal to 'b'.
+
+let isGreaterOrEqual;
+isGreaterOrEqual=a>=b;
+console.log(isGreaterOrEqual);
 
 // Example: let isLessThan;
 // Check if 'a' is less than 'b'.
 
+let isLessThan;
+isLessThan=a<b;
+console.log(isLessThan);
+
 // Example: let isLessOrEqual;
 // Check if 'a' is less than or equal to 'b'.
+
+let isLessOrEqual;
+isLessOrEqual=a<=b;
+console.log(isLessOrEqual);
 
 // Step 5: Apply binary logic with short-circuit evaluation.
 // Example: let andResult;
