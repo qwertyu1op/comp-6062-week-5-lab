@@ -59,6 +59,8 @@ console.log(sub);
 // Example: let multiply;
 // Multiply 'a' and 'b'.
 
+
+
 // Example: let power; use ** as the operator
 // Raise 'a' to the power of 'b'.
 
