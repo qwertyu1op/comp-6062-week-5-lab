@@ -117,7 +117,7 @@ console.log(andResult);
 // Use '||' to check if either 'a' or 'b' is greater than 5.
 
 let orResult;
-orResult= a>5||b>5;
+orResult= (a>5||b>5);
 console.log(orResult);
 
 //
